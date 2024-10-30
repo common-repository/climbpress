@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.React,t=window.wp.blocks,n=window.wp.blockEditor;function o(){return(0,e.createElement)("div",null,"Routes")}(0,t.registerBlockType)("climbpress/routes",{edit:()=>{const t=(0,n.useBlockProps)();return(0,e.createElement)("div",{...t},(0,e.createElement)(o,null))}})})();

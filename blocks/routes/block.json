@@ -1,0 +1,16 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "climbpress/routes",
+  "title": "Routes",
+  "category": "climbpress",
+  "icon": "tide",
+  "description": "Displays climbpress routes",
+  "keywords": [ "climbpress", "routes" ],
+  "version": "0.1.0",
+  "textdomain": "climbpress",
+  "script": "wc-climbpress-routes",
+  "editorScript": "climbpress-gutenberg",
+  "editorStyle": "climbpress-gutenberg",
+  "style": [ "wc-climbpress-routes" ]
+}

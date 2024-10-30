@@ -1,0 +1,55 @@
+# Copyright (C) 2023 Edward Bock <hi@edwardbock.de>
+# This file is distributed under the http://www.gnu.org/licenses/gpl-2.0.html GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: ClimbPress 0.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-06-28T05:13:28+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: climbpress\n"
+
+#. Plugin Name of the plugin
+msgid "ClimbPress"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://www.climbpress.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Route management for climbing and boulder gyms"
+msgstr ""
+
+#. Author of the plugin
+msgid "Edward Bock <hi@edwardbock.de>"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.edwardbock.de"
+msgstr ""
+
+#: blocks/routes/block.json
+msgctxt "block title"
+msgid "Routes"
+msgstr ""
+
+#: blocks/routes/block.json
+msgctxt "block description"
+msgid "Displays climbpress routes"
+msgstr ""
+
+#: blocks/routes/block.json
+msgctxt "block keyword"
+msgid "climbpress"
+msgstr ""
+
+#: blocks/routes/block.json
+msgctxt "block keyword"
+msgid "routes"
+msgstr ""
